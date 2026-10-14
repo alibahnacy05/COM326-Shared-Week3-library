@@ -7,13 +7,6 @@ book.Author = "BillGates";
 book.ISBN = "12345678";
 
 book.DisplayInfo();
-
-// This is another book in our library
-Book book1 = new Book();
-book1.Title = "C# Methods and classes";
-book1.Author = "Microsoft";
-book1.ISBN = "55667778";
-
 book1.DisplayInfo();
 
 // Create new instances of the Member class
